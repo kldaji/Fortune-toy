@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Fortune</string>
+
+    <string name="main_title">휴대폰 번호\n4자리 합으로 보는\n나의 운세</string>
+    <string name="number_title">휴대폰 번호\n뒤 4자리를 입력하세요.</string>
+
+    <string name="G">길</string>
+    <string name="H">흉</string>
+
+    <string name="context_1">활기차고 적극적인 성격으로\n리더가 된다.</string>
+    <string name="context_2">좋은 기회를\n빼앗길 수 있겠다.</string>
+    <string name="context_3">순수하고 사랑스러운 캐릭터로\n많은 이들의 관심과 사랑을 받는다.</string>
+    <string name="context_4">예민하고 옹석꾸러기 같은 성격으로\n주변인들 사이에서\n\'민폐\'가 될 수 있겠다.</string>
+    <string name="context_5">다른 사람의 고민을 잘 들어주고\n배려 넘치는 성격으로\n주변에 좋은 사람들이 몰린다.</string>
+    <string name="context_6">당신의 운을 높여줄\n고귀한 사람이 찾아온다.</string>
+    <string name="context_7">독립심이 넘치고\n개성이 많은 사람으로\n좋은 인연을 만난다.</string>
+    <string name="context_8">탄탄하고 안정감 있는\n직장에 취업하게 된다.</string>
+    <string name="context_9">자기중심적이고\n튀고 싶어 하는 사람이지만\n그렇지 못해 마음고생을 할 것이다.</string>
+    <string name="context_10">무기력한 날이 이어지고\n주변 사람들과 트러블이 생기며\n외로운 날이 많겠다.</string>
+    <string name="context_11">축복을 받은 듯\n좋은 일만 이어지겠다.</string>
+    <string name="context_12">가족, 연인과의 관계가 불안정해진다.</string>
+    <string name="context_13">잘 웃는 성격이\n운을 끌어다 준다.</string>
+    <string name="context_14">사고가 나는 등 안 좋은 일이 일어나겠으며,\n재운이 약해 할부로 돈을 써서는 안 된다.</string>
+    <string name="context_15">가정이 행복해지고\n인덕, 명성, 재운이 좋아진다.</string>
+    <string name="context_16">정의감이 강한 성격으로\n언젠가 있었던 일로 인해\n행운을 얻을 수도 있겠다.</string>
+    <string name="context_17">재능을 찾게되고\n건강과 목표를 달성한다.</string>
+    <string name="context_18">강한 정신력을 갖게 되고\n가족과 관계가 좋아진다.</string>
+    <string name="context_19">이성 문제가 생길 수 있으며,\n특히 술을 조심해야 한다.</string>
+    <string name="context_20">건강에 문제가 생길 수 있다.</string>
+    <string name="context_21">인기가 높아지고\n새로운 사업을 시작할 수도 있겠다.</string>
+    <string name="context_22">허세를 부리다 좌절을 겪게 된다.</string>
+    <string name="context_23">우수한 커뮤니케이션 능력과\n천재적인 발상을 갖게 된다.</string>
+    <string name="context_24">재운이 매우 강해\n재산을 불릴 수 있겠다.</string>
+    <string name="context_25">학문적인 부분에서 뛰어남을 보이겠다.</string>
+    <string name="context_26">트러블 메이커로 전락할 수 있겠다.</string>
+    <string name="context_27">주변인 사이에서\n안 좋은 일로 찍혀 고생할 수 있겠다.</string>
+    <string name="context_28">컨디션이 좋지 않으며\n커플이라면 이별을 할 수도 있다.</string>
+    <string name="context_29">지위, 권력을 갖게 된다.</string>
+    <string name="context_30">경계심이 강한 성격이\n오히려 불운을 가져온다.</string>
+    <string name="context_31">마음씨가 좋으며,\n통솔력이 있는 좋은 동료를 얻을 수 있겠다.</string>
+    <string name="context_32">좋은 인연이 찾아오며\n행운이 연달아 찾아온다.</string>
+    <string name="context_33">전문 분야에서 좋은 길을 찾을 수 있다.</string>
+    <string name="context_34">예기치 못한 불운이 찾아온다.\n성적 매력으로 인해\n연애에 문제가 생길 수도 있겠다.</string>
+    <string name="context_35">학문적 운이 좋고\n가정이 평화로워진다.\n특히 아기를 기다리고 있다면\n임신을 할 수도 있겠다.</string>
+    <string name="context_36">위압감을 느끼는 상황이 이어질 것이다.\n좋아하는 사람과 엇갈릴 수도 있겠다.</string>
+
+</resources>
